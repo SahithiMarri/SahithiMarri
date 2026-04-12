@@ -60,8 +60,8 @@ TensorFlow | OpenCV | Keras | Pandas | NumPy | Pytorch
 
 ## ✨ Connect With Me
 
-📫 Email: [your-email@example.com](mailto:marrisahithi26@gmail.com)
+📫 Email: [Sahithi](mailto:marrisahithi26@gmail.com)
 
-💼 LinkedIn: [your-link](https://www.linkedin.com/in/sahithi-marri/)
+💼 LinkedIn: [SahithiMarri](https://www.linkedin.com/in/sahithi-marri/)
 
 
