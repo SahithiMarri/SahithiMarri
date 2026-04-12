@@ -8,6 +8,17 @@ With a growing strength in AIML and hands-on development, I love exploring new t
 
 ---
 
+## 🏆 Achievements
+
+1. 2nd place - Google Developer Groups Solution challenge 2025 at CVR College
+2. 1st Runner-Up Microsoft’s CodeCubicle 5.O (GeekRoom)
+3. 1st Runner-Up - VJ Hackathon 2025 by Computer Society of India
+4. 2nd place - The Hult Prize Competition 2023
+5. Top 8 – Googles TechSprint Hackathon at CMRIT
+6. Completed Innovation Internship (Full Stack + AI Integration), 1-month program.
+
+---
+
 ## 🧠 What I Do
 
 💻 Build full-stack applications with modern tech stacks
@@ -17,17 +28,6 @@ With a growing strength in AIML and hands-on development, I love exploring new t
 📊 Explore data science, visualization, and ML models
 
 🎯 Practice DSA and problem-solving regularly
-
----
-
-## 🏆 Achievements
-
-1. 2nd place - Google Developer Groups Solution challenge 2025 at CVR College
-2. 1st Runner-Up Microsoft’s CodeCubicle 5.O (GeekRoom)
-3. 1st Runner-Up - VJ Hackathon 2025 by Computer Society of India
-4. 2nd place - The Hult Prize Competition 2023
-5. Top 8 – Googles TechSprint Hackathon at CMRIT
-6. Completed Innovation Internship (Full Stack + AI Integration), 1-month program.
 
 ---
 
