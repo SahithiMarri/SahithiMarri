@@ -11,8 +11,11 @@ With a growing strength in AIML and hands-on development, I love exploring new t
 ## 🧠 What I Do
 
 💻 Build full-stack applications with modern tech stacks
+
 🤖 Work on AI-based projects
+
 📊 Explore data science, visualization, and ML models
+
 🎯 Practice DSA and problem-solving regularly
 
 ---
@@ -31,8 +34,11 @@ With a growing strength in AIML and hands-on development, I love exploring new t
 ## 🌱 Currently Learning
 
 📌 Advanced Machine Learning & Deep Learning
+
 📌 System Design fundamentals
+
 📌 Backend scaling & optimization
+
 
 ---
 
@@ -55,6 +61,7 @@ TensorFlow | OpenCV | Keras | Pandas | NumPy | Pytorch
 ## ✨ Connect With Me
 
 📫 Email: [your-email@example.com](mailto:marrisahithi26@gmail.com)
+
 💼 LinkedIn: [your-link](https://www.linkedin.com/in/sahithi-marri/)
 
 
