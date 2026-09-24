@@ -4,7 +4,7 @@ Full Stack Developer | AI/ML Enthusiast | DSA | Hackathons Winner
 
 I’m a passionate full-stack developer, driven by a strong interest in building impactful tech solutions. I enjoy developing scalable web applications using the MERN stack and integrating AI/ML to solve real-world problems. Alongside this, I’m building a strong foundation in programming and Data Science through IIT Madras’ online BS program. 
 
-With a growing strength in AIML and hands-on development, I love exploring new technologies, participating in hackathons, tech events and continuously pushing my limits as a developer.
+While improving myself, I love exploring new technologies, participating in hackathons, tech events and continuously pushing my limits as a developer.
 
 ---
 
@@ -46,11 +46,11 @@ With a growing strength in AIML and hands-on development, I love exploring new t
 
 ### 👩‍💻 Languages
 
-C | C++ | Java | Python | JavaScript  | Typescript
+C | C++ | Java | Python | JavaScript  | Typescript | MySOL
 
 ### 🌐 Web Development
 
-React | Flask | Node.js | MongoDB | Firebase
+React | Flask | Node.js | Express.js | MongoDB
 
 ### 🤖 AI / ML
 
